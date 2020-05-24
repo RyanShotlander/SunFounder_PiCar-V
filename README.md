@@ -1,5 +1,5 @@
 ## SunFounder Smart Video Car Kit for Raspberry Pi
-SunFounder Smart Video Car Kit V2.0
+SunFounder Smart Video Car Kit V2.0 w/ additional features
 
 Quick Links:
 
